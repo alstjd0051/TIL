@@ -96,4 +96,6 @@ git push origin master // git에 올리기
 > $git reset --hard HEAD~1
 >
 > # vel2
+> $git pull origin "브랜치명" # 브랜치에서 가져오기
+> # 이후 변경사항들이 어떻게 되어있는지 확인후 삭제
 > ```
