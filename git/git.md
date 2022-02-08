@@ -88,3 +88,12 @@ git push origin master // git에 올리기
 > ```bash
 > $git reset --hard HEAD~1 # 이전 커밋한 내용을 되돌리겠다.
 > ```
+
+### 충돌관리
+
+> ```bash
+> # vel1
+> $git reset --hard HEAD~1
+>
+> # vel2
+> ```
